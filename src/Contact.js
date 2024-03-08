@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
 function Contact() {
-<div>
-    
-</div>
+  return <div>
+    <h2>Contact Me</h2>
+  </div>;
 }
 
-export default Contact
+export default Contact;
